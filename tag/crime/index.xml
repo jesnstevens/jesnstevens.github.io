@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>crime | Academic</title>
-    <link>/tag/crime/</link>
-      <atom:link href="/tag/crime/index.xml" rel="self" type="application/rss+xml" />
+    <title>crime | Jes Stevens</title>
+    <link>https://jesnstevens.github.io/tag/crime/</link>
+      <atom:link href="https://jesnstevens.github.io/tag/crime/index.xml" rel="self" type="application/rss+xml" />
     <description>crime</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jes Nicholas Stevens</copyright>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesnstevens.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>crime</title>
-      <link>/tag/crime/</link>
+      <link>https://jesnstevens.github.io/tag/crime/</link>
     </image>
     
     <item>
       <title>Crime Mapping</title>
-      <link>/project/r_crime_mapping/</link>
+      <link>https://jesnstevens.github.io/project/r_crime_mapping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/r_crime_mapping/</guid>
+      <guid>https://jesnstevens.github.io/project/r_crime_mapping/</guid>
       <description>&lt;p&gt;In it&amp;rsquo;s original form the St. Louis Metropolitan Police Department (SLMPD) crime data is downloadable as a &lt;code&gt;csv&lt;/code&gt; file. The data itself is also unorganized and challenging to work with. In an effort to simplify &amp;amp; reduce the time it takes to compile our reports, &lt;code&gt;r&lt;/code&gt;, &lt;code&gt;tidyverse&lt;/code&gt;, and &lt;code&gt;compstatr&lt;/code&gt; are all packages that streamline and help the process. This project utilizes these resources for accessing and cleaning the data, with the eventual goal of automating a monthly report for neighborhoods that fall within the service area of. This project is being done through R, and RStudio. For updates &amp;amp; replication visit the source code 
 &lt;a href=&#34;https://github.com/wumcrc/r-crime-mapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
