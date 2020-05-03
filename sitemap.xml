@@ -3,11 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/</loc>
+    <loc>/</loc>
+    <lastmod>2016-04-27T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tag/economic-development/</loc>
+    <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/neighborhood-revitalization/</loc>
+    <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/west_end_south_cid/</loc>
+    <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
   </url>
   
   <url>
@@ -16,6 +42,14 @@
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tag/crime/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/r_crime_mapping/</loc>
   </url>
   
   <url>
@@ -31,11 +65,15 @@
   </url>
   
   <url>
+    <loc>/tag/r/</loc>
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tag/safety-security/</loc>
   </url>
   
 </urlset>

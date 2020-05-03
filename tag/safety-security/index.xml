@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <title>safety-security | Academic</title>
+    <link>/tag/safety-security/</link>
+      <atom:link href="/tag/safety-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>safety-security</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
-      <link>/</link>
+      <title>safety-security</title>
+      <link>/tag/safety-security/</link>
     </image>
-    
-    <item>
-      <title>West End South Community Improvement District</title>
-      <link>/project/west_end_south_cid/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      <guid>/project/west_end_south_cid/</guid>
-      <description>&lt;p&gt;The West End South Community Improvement District is a economic development tool that would generate additional revenue for the proposed geographic region. Jes Stevens is providing technical assistance to the neighborhood residents and stakeholders who are interested in implementing the proposed district. You can find out more about the proposed district on their 
-&lt;a href=&#34;https://westendcid.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;website&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Crime Mapping</title>
